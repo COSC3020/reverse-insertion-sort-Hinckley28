@@ -41,4 +41,4 @@ that you've understood the concept. Add your answer to this markdown file.
 Answer: The average case time complexity for insertion sort is $\Theta(n^2)$. This is because 
 to get the average case, we need to take all of the possible case time complexities and divide them by 
 the number of cases. This would be n(n^2 + 1)/n. This is equal to n^2 + 1, and as we ignore any constant 
-factors, would equal $\Theta(n^2)$. 
+factors, would equal $\Theta(n^2)$.
